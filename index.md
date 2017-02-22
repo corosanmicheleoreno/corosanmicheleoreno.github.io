@@ -1,8 +1,8 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
-description: null
+landing-title: 'La musica è una rivelazione più profonda di ogni saggezza'
+description: 'Sito ufficiale del Coro Polifonico San Michele di Oreno'
 image: null
 author: null
 ---
