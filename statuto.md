@@ -43,9 +43,8 @@ Art. 4 - ADESIONE AL CORO
 
 I soci dell’Associazione – Coro Polifonico “S. Michele” si dividono in:
 
-•	soci Coristi per i quali l’adesione al Coro è consentita, senza pregiudiziali ideologiche, confessionali o razziali, a tutti coloro che dimostrino adeguate capacità musicali e vocali verificate attraverso un’audizione da parte del Direttore Artistico, oltre alla condivisione degli obiettivi del presente Statuto;
-
-•	soci Sostenitori per i quali l’adesione  al Coro  è consentita, senza pregiudiziali ideologiche, confessionali o razziali, a tutti coloro che dimostrino esclusivamente passione musicale e condivisione degli obiettivi del presente Statuto.
+-	soci Coristi per i quali l’adesione al Coro è consentita, senza pregiudiziali ideologiche, confessionali o razziali, a tutti coloro che dimostrino adeguate capacità musicali e vocali verificate attraverso un’audizione da parte del Direttore Artistico, oltre alla condivisione degli obiettivi del presente Statuto;
+-	soci Sostenitori per i quali l’adesione  al Coro  è consentita, senza pregiudiziali ideologiche, confessionali o razziali, a tutti coloro che dimostrino esclusivamente passione musicale e condivisione degli obiettivi del presente Statuto.
 
 In coerenza con il repertorio artistico sviluppato il Coro risulta composto sia da voci maschili che femminili.
 
