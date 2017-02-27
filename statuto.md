@@ -4,6 +4,7 @@ title: Statuto
 description: Lorem ipsum dolor est
 image: assets/images/pic12.jpg
 nav-menu: true
+published: true
 ---
 
 ATTO COSTITUTIVO
@@ -32,7 +33,6 @@ Art. 2 - TIPO DI ASSOCIAZIONE
 
 Il “Coro Polifonico S. Michele” è una libera ed indipendente associazione dilettantistica che non persegue alcun fine di lucro e provvede al sostentamento della propria attività tramite quote associative, eventuali contributi volontari, donazioni di simpatizzanti e/o sostenitori e proventi derivanti da alcune manifestazioni concertistiche a pagamento.
 
-
 Art. 3 - SEDE SOCIALE
 
 La sede sociale del "Coro Polifonico S. Michele" è presso la Parrocchia di Oreno,
